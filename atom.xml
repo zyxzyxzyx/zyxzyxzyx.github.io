@@ -5,9 +5,9 @@
   <subtitle>每一个不曾起舞的日子都是对生命的辜负</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://zyxzyxzyx.github.io/"/>
   <updated>2019-08-14T12:32:43.937Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://zyxzyxzyx.github.io/</id>
   
   <author>
     <name>Zhangyexing</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>如何利用Github搭建个人博客</title>
-    <link href="http://yoursite.com/2019/08/14/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2019/08/14/如何利用Github搭建个人博客/</id>
+    <link href="https://zyxzyxzyx.github.io/2019/08/14/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://zyxzyxzyx.github.io/2019/08/14/如何利用Github搭建个人博客/</id>
     <published>2019-08-14T03:56:55.330Z</published>
     <updated>2019-08-14T12:32:43.937Z</updated>
     
@@ -41,17 +41,17 @@
     
     </summary>
     
-      <category term="Github" scheme="http://yoursite.com/categories/Github/"/>
+      <category term="Github" scheme="https://zyxzyxzyx.github.io/categories/Github/"/>
     
     
-      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
+      <category term="Github" scheme="https://zyxzyxzyx.github.io/tags/Github/"/>
     
   </entry>
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="http://yoursite.com/2019/08/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2019/08/12/我的第一篇博客/</id>
+    <link href="https://zyxzyxzyx.github.io/2019/08/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://zyxzyxzyx.github.io/2019/08/12/我的第一篇博客/</id>
     <published>2019-08-12T11:55:02.000Z</published>
     <updated>2019-08-14T12:32:48.826Z</updated>
     
@@ -67,19 +67,19 @@
     
     </summary>
     
-      <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
+      <category term="Hexo" scheme="https://zyxzyxzyx.github.io/categories/Hexo/"/>
     
     
-      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://zyxzyxzyx.github.io/tags/Hexo/"/>
     
-      <category term="常用命令" scheme="http://yoursite.com/tags/%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+      <category term="常用命令" scheme="https://zyxzyxzyx.github.io/tags/%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/08/11/hello-world/"/>
-    <id>http://yoursite.com/2019/08/11/hello-world/</id>
+    <link href="https://zyxzyxzyx.github.io/2019/08/11/hello-world/"/>
+    <id>https://zyxzyxzyx.github.io/2019/08/11/hello-world/</id>
     <published>2019-08-11T09:38:59.008Z</published>
     <updated>2019-08-14T12:33:16.697Z</updated>
     
