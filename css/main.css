@@ -2108,7 +2108,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4f79bf;
+  background: #ffffe3;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3466,6 +3466,22 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
+}
+.content {
+  border-radius: 16px;
+  margin-top: 60px;
+  background: rgba(255,255,255,0.5) none repeat scroll !important;
+}
+#sidebar {
+  background: url("/images/sidebar.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#sidebar p,
+#sidebar span,
+#sidebar a {
+  color: #0684bd;
 }
 @-moz-keyframes heartAnimate {
   0%, 100% {
