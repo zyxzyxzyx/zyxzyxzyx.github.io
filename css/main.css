@@ -2108,7 +2108,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d9ffde;
+  background: #ffffcd;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3455,7 +3455,7 @@ pre {
   cursor: url("http://om8u46rmb.bkt.clouddn.com/sword1.ico"), auto !important;
 }
 .site-meta {
-  background: #0684bd;
+  background: #0066f5;
 }
 body {
   background: url("/images/background.jpg");
