@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Zhangyexing&#39;s Blog</title>
+  <title>Zhang Yexing&#39;s Blog</title>
   
   <subtitle>每一个不曾起舞的日子都是对生命的辜负</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://zyxzyxzyx.github.io/</id>
   
   <author>
-    <name>Zhangyexing</name>
+    <name>Zhang Yexing</name>
     
   </author>
   
