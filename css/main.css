@@ -189,7 +189,7 @@ body {
   font-size: 14px;
   line-height: 2;
   color: #555;
-  background: #eee;
+  background: #f5f7f9;
 }
 @media (max-width: 767px) {
   body {
@@ -2108,7 +2108,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #bd6bff;
+  background: #d9ffde;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2989,7 +2989,7 @@ img:hover {
   float: left;
   margin-top: 300px;
   width: 240px;
-  background: #eee;
+  background: #f5f7f9;
   box-shadow: none;
 }
 @media (min-width: 768px) and (max-width: 991px) {
@@ -3344,15 +3344,15 @@ img:hover {
 }
 .post-body h1 {
   font-size: 1.6em;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #f5f7f9;
 }
 .post-body h2 {
   font-size: 1.45em;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #f5f7f9;
 }
 .post-body h3 {
   font-size: 1.3em;
-  border-bottom: 1px dotted #eee;
+  border-bottom: 1px dotted #f5f7f9;
 }
 .post-body h4 {
   font-size: 1.2em;
