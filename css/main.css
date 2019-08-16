@@ -2108,7 +2108,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #60365c;
+  background: #1fff9d;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3453,6 +3453,16 @@ pre {
 }
 :active {
   cursor: url("http://om8u46rmb.bkt.clouddn.com/sword1.ico"), auto !important;
+}
+.site-meta {
+  background: #0684bd;
+}
+body {
+  background: url("/images/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
 @-moz-keyframes heartAnimate {
   0%, 100% {
