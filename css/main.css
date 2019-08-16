@@ -2108,7 +2108,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffffe3;
+  background: #32e0c1;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3482,6 +3482,14 @@ body {
 #sidebar span,
 #sidebar a {
   color: #0684bd;
+}
+.header {
+  background: url("/images/sidebar.jpg");
+  background: rgba(255,255,255,0.5) none repeat scroll !important;
+}
+.footer {
+  background: url("/images/sidebar.jpg");
+  background: rgba(255,255,255,0.5) none repeat scroll !important;
 }
 @-moz-keyframes heartAnimate {
   0%, 100% {
