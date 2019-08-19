@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zyxzyxzyx.github.io/"/>
-  <updated>2019-08-18T03:52:46.671Z</updated>
+  <updated>2019-08-18T03:46:02.000Z</updated>
   <id>https://zyxzyxzyx.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>如何利用Github搭建个人博客</title>
-    <link href="https://zyxzyxzyx.github.io/2019/08/18/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://zyxzyxzyx.github.io/2019/08/18/如何利用Github搭建个人博客/</id>
-    <published>2019-08-18T03:50:43.581Z</published>
-    <updated>2019-08-18T03:52:46.671Z</updated>
+    <title>Hexo搭建独立博客全纪录</title>
+    <link href="https://zyxzyxzyx.github.io/2019/08/18/Hexo%E6%90%AD%E5%BB%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2%E5%85%A8%E7%BA%AA%E5%BD%95/"/>
+    <id>https://zyxzyxzyx.github.io/2019/08/18/Hexo搭建独立博客全纪录/</id>
+    <published>2019-08-18T07:30:10.805Z</published>
+    <updated>2019-08-18T03:46:02.000Z</updated>
     
     <summary type="html">
     
@@ -29,14 +29,68 @@
       
         
         
-          &lt;h1 id=&quot;特别推荐&quot;&gt;&lt;a href=&quot;#特别推荐&quot; class=&quot;headerlink&quot; title=&quot;** 特别推荐 **&quot;&gt;&lt;/a&gt;&lt;strong&gt;**&lt;/strong&gt; 特别推荐 &lt;strong&gt;**&lt;/strong&gt;&lt;/h1&gt;&lt;h1
+          &lt;h1 id=&quot;Hexo搭建独立博客全纪录&quot;&gt;&lt;a href=&quot;#Hexo搭建独立博客全纪录&quot; class=&quot;headerlink&quot; title=&quot;Hexo搭建独立博客全纪录&quot;&gt;&lt;/a&gt;Hexo搭建独立博客全纪录&lt;/h1&gt;&lt;h2 id=&quot;前端工具&quot;&gt;&lt;a
         
       
     
     </summary>
     
-      <category term="Github" scheme="https://zyxzyxzyx.github.io/categories/Github/"/>
+      <category term="Hexo" scheme="https://zyxzyxzyx.github.io/categories/Hexo/"/>
     
+    
+      <category term="Hexo" scheme="https://zyxzyxzyx.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo博客搭建全攻略</title>
+    <link href="https://zyxzyxzyx.github.io/2019/08/18/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%85%A8%E6%94%BB%E7%95%A5/"/>
+    <id>https://zyxzyxzyx.github.io/2019/08/18/Hexo博客搭建全攻略/</id>
+    <published>2019-08-18T07:30:10.801Z</published>
+    <updated>2019-08-18T03:43:58.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Hexo-博客搭建指南&quot;&gt;&lt;a href=&quot;#Hexo-博客搭建指南&quot; class=&quot;headerlink&quot; title=&quot;Hexo 博客搭建指南&quot;&gt;&lt;/a&gt;Hexo
+        
+      
+    
+    </summary>
+    
+      <category term="Hexo" scheme="https://zyxzyxzyx.github.io/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="https://zyxzyxzyx.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GitHub + Hexo搭建自己博客(二)-Next主题配置</title>
+    <link href="https://zyxzyxzyx.github.io/2019/08/18/GitHub%20+%20Hexo%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E5%8D%9A%E5%AE%A2(%E4%BA%8C)-Next%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/"/>
+    <id>https://zyxzyxzyx.github.io/2019/08/18/GitHub + Hexo搭建自己博客(二)-Next主题配置/</id>
+    <published>2019-08-18T07:30:10.797Z</published>
+    <updated>2019-08-18T03:45:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、基本配置&quot;&gt;&lt;a href=&quot;#一、基本配置&quot; class=&quot;headerlink&quot; title=&quot;一、基本配置&quot;&gt;&lt;/a&gt;一、基本配置&lt;/h2&gt;&lt;p&gt;在 Hexo 中有两份主要的配置文件，其名称都是 _config.yml。
+        
+      
+    
+    </summary>
+    
+      <category term="Hexo" scheme="https://zyxzyxzyx.github.io/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="https://zyxzyxzyx.github.io/tags/Hexo/"/>
     
       <category term="Github" scheme="https://zyxzyxzyx.github.io/tags/Github/"/>
     
@@ -46,8 +100,8 @@
     <title>GitHub + Hexo搭建自己博客(三)-多设备管理</title>
     <link href="https://zyxzyxzyx.github.io/2019/08/18/GitHub%20+%20Hexo%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E5%8D%9A%E5%AE%A2(%E4%B8%89)-%E5%A4%9A%E8%AE%BE%E5%A4%87%E7%AE%A1%E7%90%86/"/>
     <id>https://zyxzyxzyx.github.io/2019/08/18/GitHub + Hexo搭建自己博客(三)-多设备管理/</id>
-    <published>2019-08-18T02:43:46.850Z</published>
-    <updated>2019-08-18T03:45:19.974Z</updated>
+    <published>2019-08-18T07:30:10.794Z</published>
+    <updated>2019-08-18T03:45:20.000Z</updated>
     
     <summary type="html">
     
@@ -72,39 +126,11 @@
   </entry>
   
   <entry>
-    <title>GitHub + Hexo搭建自己博客(二)-Next主题配置</title>
-    <link href="https://zyxzyxzyx.github.io/2019/08/18/GitHub%20+%20Hexo%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E5%8D%9A%E5%AE%A2(%E4%BA%8C)-Next%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/"/>
-    <id>https://zyxzyxzyx.github.io/2019/08/18/GitHub + Hexo搭建自己博客(二)-Next主题配置/</id>
-    <published>2019-08-18T02:43:42.602Z</published>
-    <updated>2019-08-18T03:44:59.164Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;一、基本配置&quot;&gt;&lt;a href=&quot;#一、基本配置&quot; class=&quot;headerlink&quot; title=&quot;一、基本配置&quot;&gt;&lt;/a&gt;一、基本配置&lt;/h2&gt;&lt;p&gt;在 Hexo 中有两份主要的配置文件，其名称都是 _config.yml。
-        
-      
-    
-    </summary>
-    
-      <category term="Hexo" scheme="https://zyxzyxzyx.github.io/categories/Hexo/"/>
-    
-    
-      <category term="Hexo" scheme="https://zyxzyxzyx.github.io/tags/Hexo/"/>
-    
-      <category term="Github" scheme="https://zyxzyxzyx.github.io/tags/Github/"/>
-    
-  </entry>
-  
-  <entry>
     <title>GitHub + Hexo搭建自己博客(一)-基本内容</title>
     <link href="https://zyxzyxzyx.github.io/2019/08/18/GitHub%20+%20Hexo%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E5%8D%9A%E5%AE%A2(%E4%B8%80)-%E5%9F%BA%E6%9C%AC%E5%86%85%E5%AE%B9/"/>
     <id>https://zyxzyxzyx.github.io/2019/08/18/GitHub + Hexo搭建自己博客(一)-基本内容/</id>
-    <published>2019-08-18T02:43:39.292Z</published>
-    <updated>2019-08-18T03:45:30.390Z</updated>
+    <published>2019-08-18T07:30:10.791Z</published>
+    <updated>2019-08-18T03:45:32.000Z</updated>
     
     <summary type="html">
     
@@ -128,11 +154,11 @@
   </entry>
   
   <entry>
-    <title>Hexo搭建独立博客全纪录</title>
-    <link href="https://zyxzyxzyx.github.io/2019/08/18/Hexo%E6%90%AD%E5%BB%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2%E5%85%A8%E7%BA%AA%E5%BD%95/"/>
-    <id>https://zyxzyxzyx.github.io/2019/08/18/Hexo搭建独立博客全纪录/</id>
-    <published>2019-08-18T02:30:59.160Z</published>
-    <updated>2019-08-18T03:46:01.299Z</updated>
+    <title>如何利用Github搭建个人博客</title>
+    <link href="https://zyxzyxzyx.github.io/2019/08/18/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://zyxzyxzyx.github.io/2019/08/18/如何利用Github搭建个人博客/</id>
+    <published>2019-08-18T07:30:08.658Z</published>
+    <updated>2019-08-18T03:52:48.000Z</updated>
     
     <summary type="html">
     
@@ -140,25 +166,25 @@
       
         
         
-          &lt;h1 id=&quot;Hexo搭建独立博客全纪录&quot;&gt;&lt;a href=&quot;#Hexo搭建独立博客全纪录&quot; class=&quot;headerlink&quot; title=&quot;Hexo搭建独立博客全纪录&quot;&gt;&lt;/a&gt;Hexo搭建独立博客全纪录&lt;/h1&gt;&lt;h2 id=&quot;前端工具&quot;&gt;&lt;a
+          &lt;h1 id=&quot;特别推荐&quot;&gt;&lt;a href=&quot;#特别推荐&quot; class=&quot;headerlink&quot; title=&quot;** 特别推荐 **&quot;&gt;&lt;/a&gt;&lt;strong&gt;**&lt;/strong&gt; 特别推荐 &lt;strong&gt;**&lt;/strong&gt;&lt;/h1&gt;&lt;h1
         
       
     
     </summary>
     
-      <category term="Hexo" scheme="https://zyxzyxzyx.github.io/categories/Hexo/"/>
+      <category term="Github" scheme="https://zyxzyxzyx.github.io/categories/Github/"/>
     
     
-      <category term="Hexo" scheme="https://zyxzyxzyx.github.io/tags/Hexo/"/>
+      <category term="Github" scheme="https://zyxzyxzyx.github.io/tags/Github/"/>
     
   </entry>
   
   <entry>
-    <title>Hexo博客搭建全攻略</title>
-    <link href="https://zyxzyxzyx.github.io/2019/08/17/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%85%A8%E6%94%BB%E7%95%A5/"/>
-    <id>https://zyxzyxzyx.github.io/2019/08/17/Hexo博客搭建全攻略/</id>
-    <published>2019-08-17T15:17:14.706Z</published>
-    <updated>2019-08-18T03:43:56.743Z</updated>
+    <title>Hello World</title>
+    <link href="https://zyxzyxzyx.github.io/2019/08/18/hello-world/"/>
+    <id>https://zyxzyxzyx.github.io/2019/08/18/hello-world/</id>
+    <published>2019-08-18T07:30:08.657Z</published>
+    <updated>2019-08-18T03:45:44.000Z</updated>
     
     <summary type="html">
     
@@ -166,16 +192,12 @@
       
         
         
-          &lt;h1 id=&quot;Hexo-博客搭建指南&quot;&gt;&lt;a href=&quot;#Hexo-博客搭建指南&quot; class=&quot;headerlink&quot; title=&quot;Hexo 博客搭建指南&quot;&gt;&lt;/a&gt;Hexo
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
         
       
     
     </summary>
     
-      <category term="Hexo" scheme="https://zyxzyxzyx.github.io/categories/Hexo/"/>
-    
-    
-      <category term="Hexo" scheme="https://zyxzyxzyx.github.io/tags/Hexo/"/>
     
   </entry>
   
@@ -184,7 +206,7 @@
     <link href="https://zyxzyxzyx.github.io/2019/08/12/Hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E6%B1%87%E6%80%BB/"/>
     <id>https://zyxzyxzyx.github.io/2019/08/12/Hexo常用命令汇总/</id>
     <published>2019-08-12T11:55:02.000Z</published>
-    <updated>2019-08-18T03:44:20.566Z</updated>
+    <updated>2019-08-18T03:44:22.000Z</updated>
     
     <summary type="html">
     
@@ -208,11 +230,11 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://zyxzyxzyx.github.io/2019/08/11/hello-world/"/>
-    <id>https://zyxzyxzyx.github.io/2019/08/11/hello-world/</id>
-    <published>2019-08-11T09:38:59.008Z</published>
-    <updated>2019-08-18T03:45:42.510Z</updated>
+    <title>我的第一篇博客</title>
+    <link href="https://zyxzyxzyx.github.io/2019/08/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://zyxzyxzyx.github.io/2019/08/12/我的第一篇博客/</id>
+    <published>2019-08-12T11:55:02.000Z</published>
+    <updated>2019-08-14T12:32:50.000Z</updated>
     
     <summary type="html">
     
@@ -220,12 +242,18 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;h1 id=&quot;Hexo常用命令&quot;&gt;&lt;a href=&quot;#Hexo常用命令&quot; class=&quot;headerlink&quot; title=&quot;Hexo常用命令&quot;&gt;&lt;/a&gt;Hexo常用命令&lt;/h1&gt;&lt;h2 id=&quot;常见命令&quot;&gt;&lt;a href=&quot;#常见命令&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
+      <category term="Hexo" scheme="https://zyxzyxzyx.github.io/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="https://zyxzyxzyx.github.io/tags/Hexo/"/>
+    
+      <category term="常用命令" scheme="https://zyxzyxzyx.github.io/tags/%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
     
   </entry>
   
