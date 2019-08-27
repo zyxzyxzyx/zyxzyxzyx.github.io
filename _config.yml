@@ -117,3 +117,5 @@ live2d:
   react:
     opacityDefault: 1
     opacityOnHover: 1
+
+baidushare: true #百度分享功能
