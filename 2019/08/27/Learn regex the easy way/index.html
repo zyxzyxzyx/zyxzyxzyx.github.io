@@ -117,7 +117,7 @@
 
 
 
-  <meta name="keywords" content="Hexo, NexT">
+  <meta name="keywords" content="正则表达式,">
 
 
 
@@ -130,23 +130,23 @@
 
 
 
-<meta name="description" content="翻译: English Español Français Português do Brasil 中文版 日本語 한국어 Turkish Greek Magyar Polish Русски">
-<meta name="keywords" content="网络空间安全">
+<meta name="description" content="learn-regex                                                                                                         翻译: English Español Français Português do Brasil 中文版 日本語 한국어 Turkish Greek Magyar Po">
+<meta name="keywords" content="正则表达式">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Zhang Yexing&#39;s Blog">
+<meta property="og:title" content="Learn regex the easy way">
 <meta property="og:url" content="https://zyxzyxzyx.github.io/2019/08/27/Learn regex the easy way/index.html">
 <meta property="og:site_name" content="Zhang Yexing&#39;s Blog">
-<meta property="og:description" content="翻译: English Español Français Português do Brasil 中文版 日本語 한국어 Turkish Greek Magyar Polish Русски">
+<meta property="og:description" content="learn-regex                                                                                                         翻译: English Español Français Português do Brasil 中文版 日本語 한국어 Turkish Greek Magyar Po">
 <meta property="og:locale" content="zh-Hans">
 <meta property="og:image" content="https://i.imgur.com/bYwl7Vf.png">
 <meta property="og:image" content="https://img.shields.io/badge/twitter-tweet-blue.svg?style=flat-square">
 <meta property="og:image" content="https://img.shields.io/badge/feedback-@ziishaned-blue.svg?style=flat-square">
-<meta property="og:image" content="https://zyxzyxzyx.github.io/2019/08/27/img/regexp-cn.png">
+<meta property="og:image" content="https://github.com/ziishaned/learn-regex/blob/master/img/regexp-cn.png">
 <meta property="og:image" content="https://img.shields.io/twitter/url/https/twitter.com/ziishaned.svg?style=social&label=Follow%20%40ziishaned">
-<meta property="og:updated_time" content="2019-08-27T06:45:56.950Z">
+<meta property="og:updated_time" content="2019-08-27T06:56:30.160Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Zhang Yexing&#39;s Blog">
-<meta name="twitter:description" content="翻译: English Español Français Português do Brasil 中文版 日本語 한국어 Turkish Greek Magyar Polish Русски">
+<meta name="twitter:title" content="Learn regex the easy way">
+<meta name="twitter:description" content="learn-regex                                                                                                         翻译: English Español Français Português do Brasil 中文版 日本語 한국어 Turkish Greek Magyar Po">
 <meta name="twitter:image" content="https://i.imgur.com/bYwl7Vf.png">
 
 
@@ -207,7 +207,7 @@
   daovoice('update');
   </script>
 
-  <title> | Zhang Yexing's Blog</title>
+  <title>Learn regex the easy way | Zhang Yexing's Blog</title>
   
 
 
@@ -416,10 +416,14 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline"></h1>
+          <h1 class="post-title" itemprop="name headline">Learn regex the easy way</h1>
         
 
         <div class="post-meta">
+          
+            <i class="fa fa-thumb-tack"></i>
+            <font color="7D26CD">置顶</font>
+            <span class="post-meta-divider">|</span>
           
           
           <span class="post-time">
@@ -440,6 +444,28 @@
             
           </span>
 
+          
+            <span class="post-category">
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/正则表达式/" itemprop="url" rel="index">
+                    <span itemprop="name">正则表达式</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
           
 
           
@@ -504,7 +530,7 @@
       
 
       
-        <p align="center">
+        <h1 id="learn-regex"><a href="#learn-regex" class="headerlink" title="learn-regex"></a><a href="https://github.com/ziishaned/learn-regex" target="_blank" rel="noopener">learn-regex</a></h1><p align="center">
     <br>
     <a href="https://github.com/ziishaned/learn-regex" target="_blank" rel="noopener">
         <img src="https://i.imgur.com/bYwl7Vf.png" alt="Learn Regex">
@@ -543,7 +569,7 @@
 <p>想象你正在写一个应用, 然后你想设定一个用户命名的规则, 让用户名包含字符,数字,下划线和连字符,以及限制字符的个数,好让名字看起来没那么丑.<br>我们使用以下正则表达式来验证一个用户名:</p>
 <p><br><br></p>
 <p align="center">
-  <img src="../img/regexp-cn.png" alt="Regular expression">
+  <img src="https://github.com/ziishaned/learn-regex/blob/master/img/regexp-cn.png" alt="Regular expression">
 </p>
 
 <p>以上的正则表达式可以接受 <code>john_doe</code>, <code>jo-hn_doe</code>, <code>john12_as</code>.<br>但不匹配<code>Jo</code>, 因为它包含了大写的字母而且太短了.</p>
@@ -989,6 +1015,35 @@
     <div>
       
         
+<div class="my_post_copyright">
+  <script src="//cdn.bootcss.com/clipboard.js/1.5.10/clipboard.min.js"></script>
+  
+  <!-- JS库 sweetalert 可修改路径 -->
+  <script src="https://cdn.bootcss.com/jquery/2.0.0/jquery.min.js"></script>
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+  <p><span>本文标题:</span><a href="/2019/08/27/Learn regex the easy way/">Learn regex the easy way</a></p>
+  <p><span>文章作者:</span><a href="/" title="访问 Zhang Yexing 的个人博客">Zhang Yexing</a></p>
+  <p><span>发布时间:</span>2019年08月27日 - 14:45</p>
+  <p><span>最后更新:</span>2019年08月27日 - 14:56</p>
+  <p><span>原始链接:</span><a href="/2019/08/27/Learn regex the easy way/" title="Learn regex the easy way">https://zyxzyxzyx.github.io/2019/08/27/Learn regex the easy way/</a>
+    <span class="copy-path" title="点击复制文章链接"><i class="fa fa-clipboard" data-clipboard-text="https://zyxzyxzyx.github.io/2019/08/27/Learn regex the easy way/" aria-label="复制成功！"></i></span>
+  </p>
+  <p><span>许可协议:</span><i class="fa fa-creative-commons"></i> <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" title="Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)">署名-非商业性使用-禁止演绎 4.0 国际</a> 转载请保留原文链接及作者。</p>  
+</div>
+<script> 
+    var clipboard = new Clipboard('.fa-clipboard');
+    $(".fa-clipboard").click(function(){
+      clipboard.on('success', function(){
+        swal({   
+          title: "",   
+          text: '复制成功',
+          icon: "success", 
+          showConfirmButton: true
+          });
+	});
+    });  
+</script>
+
       
     </div>
 
@@ -1050,6 +1105,12 @@
     
 
     <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/正则表达式/" rel="tag"><i class="fa fa-tag"></i> 正则表达式</a>
+          
+        </div>
       
 
       
@@ -1191,7 +1252,7 @@ var jiathis_config={
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">2</span>
+                  <span class="site-state-item-count">3</span>
                   <span class="site-state-item-name">分类</span>
                 </a>
               </div>
@@ -1202,7 +1263,7 @@ var jiathis_config={
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">3</span>
+                  <span class="site-state-item-count">4</span>
                   <span class="site-state-item-name">标签</span>
                 </a>
               </div>
@@ -1328,7 +1389,7 @@ var jiathis_config={
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#翻译"><span class="nav-text">翻译:</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#什么是正则表达式"><span class="nav-text">什么是正则表达式?</span></a></li></ol><li class="nav-item nav-level-1"><a class="nav-link" href="#目录"><span class="nav-text">目录</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#1-基本匹配"><span class="nav-text">1. 基本匹配</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-元字符"><span class="nav-text">2. 元字符</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-1-点运算符"><span class="nav-text">2.1 点运算符 .</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-2-字符集"><span class="nav-text">2.2 字符集</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#2-2-1-否定字符集"><span class="nav-text">2.2.1 否定字符集</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-3-重复次数"><span class="nav-text">2.3 重复次数</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#2-3-1-号"><span class="nav-text">2.3.1 * 号</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-3-2-号"><span class="nav-text">2.3.2 + 号</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-3-3-号"><span class="nav-text">2.3.3 ? 号</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-4-号"><span class="nav-text">2.4 {} 号</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-5-特征标群"><span class="nav-text">2.5 (...) 特征标群</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-6-或运算符"><span class="nav-text">2.6 | 或运算符</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-7-转码特殊字符"><span class="nav-text">2.7 转码特殊字符</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-8-锚点"><span class="nav-text">2.8 锚点</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#2-8-1-号"><span class="nav-text">2.8.1 ^ 号</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-8-2-号"><span class="nav-text">2.8.2 $ 号</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-简写字符集"><span class="nav-text">3. 简写字符集</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4-零宽度断言-前后预查"><span class="nav-text">4. 零宽度断言(前后预查)</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#4-1-正先行断言"><span class="nav-text">4.1 ?=... 正先行断言</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-2-负先行断言"><span class="nav-text">4.2 ?!... 负先行断言</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-3-lt-正后发断言"><span class="nav-text">4.3 ?&lt;= ... 正后发断言</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-4-lt-负后发断言"><span class="nav-text">4.4 ?&lt;!... 负后发断言</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#5-标志"><span class="nav-text">5. 标志</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#5-1-忽略大小写-Case-Insensitive"><span class="nav-text">5.1 忽略大小写 (Case Insensitive)</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-2-全局搜索-Global-search"><span class="nav-text">5.2 全局搜索 (Global search)</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-3-多行修饰符-Multiline"><span class="nav-text">5.3 多行修饰符 (Multiline)</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#6-贪婪匹配与惰性匹配-Greedy-vs-lazy-matching"><span class="nav-text">6. 贪婪匹配与惰性匹配 (Greedy vs lazy matching)</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#贡献"><span class="nav-text">贡献</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#许可证"><span class="nav-text">许可证</span></a></li></ol></li></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#learn-regex"><span class="nav-text">learn-regex</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#翻译"><span class="nav-text">翻译:</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#什么是正则表达式"><span class="nav-text">什么是正则表达式?</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#目录"><span class="nav-text">目录</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#1-基本匹配"><span class="nav-text">1. 基本匹配</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-元字符"><span class="nav-text">2. 元字符</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-1-点运算符"><span class="nav-text">2.1 点运算符 .</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-2-字符集"><span class="nav-text">2.2 字符集</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#2-2-1-否定字符集"><span class="nav-text">2.2.1 否定字符集</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-3-重复次数"><span class="nav-text">2.3 重复次数</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#2-3-1-号"><span class="nav-text">2.3.1 * 号</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-3-2-号"><span class="nav-text">2.3.2 + 号</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-3-3-号"><span class="nav-text">2.3.3 ? 号</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-4-号"><span class="nav-text">2.4 {} 号</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-5-特征标群"><span class="nav-text">2.5 (...) 特征标群</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-6-或运算符"><span class="nav-text">2.6 | 或运算符</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-7-转码特殊字符"><span class="nav-text">2.7 转码特殊字符</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-8-锚点"><span class="nav-text">2.8 锚点</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#2-8-1-号"><span class="nav-text">2.8.1 ^ 号</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-8-2-号"><span class="nav-text">2.8.2 $ 号</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-简写字符集"><span class="nav-text">3. 简写字符集</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4-零宽度断言-前后预查"><span class="nav-text">4. 零宽度断言(前后预查)</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#4-1-正先行断言"><span class="nav-text">4.1 ?=... 正先行断言</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-2-负先行断言"><span class="nav-text">4.2 ?!... 负先行断言</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-3-lt-正后发断言"><span class="nav-text">4.3 ?&lt;= ... 正后发断言</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-4-lt-负后发断言"><span class="nav-text">4.4 ?&lt;!... 负后发断言</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#5-标志"><span class="nav-text">5. 标志</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#5-1-忽略大小写-Case-Insensitive"><span class="nav-text">5.1 忽略大小写 (Case Insensitive)</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-2-全局搜索-Global-search"><span class="nav-text">5.2 全局搜索 (Global search)</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-3-多行修饰符-Multiline"><span class="nav-text">5.3 多行修饰符 (Multiline)</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#6-贪婪匹配与惰性匹配-Greedy-vs-lazy-matching"><span class="nav-text">6. 贪婪匹配与惰性匹配 (Greedy vs lazy matching)</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#贡献"><span class="nav-text">贡献</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#许可证"><span class="nav-text">许可证</span></a></li></ol></li></ol></div>
             
 
           </div>
