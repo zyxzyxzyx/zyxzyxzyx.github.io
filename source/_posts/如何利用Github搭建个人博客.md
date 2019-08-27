@@ -183,6 +183,7 @@ id: '<%= page.date %>'
 # 五、GitHub + Hexo搭建自己博客：备份博客源文件
 1. [GitHub + Hexo搭建自己博客(三) 多设备管理](https://sandop.github.io/2019/02/21/GitHub-Hexo%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E5%8D%9A%E5%AE%A2-%E4%B8%89-%E5%A4%9A%E8%AE%BE%E5%A4%87%E7%AE%A1%E7%90%86/)
 2. [超详细Hexo+Github博客搭建小白教程](https://godweiyang.com/2018/04/13/hexo-blog/)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190827201322537.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5eF9seQ==,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190817175408575.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5eF9seQ==,size_16,color_FFFFFF,t_70)
 # 六、Hexo + Next 主题博客添加分享功能
 首先在**themes\next\layout\\_partials\share**中新建一个文件**socialshare.swig**,
