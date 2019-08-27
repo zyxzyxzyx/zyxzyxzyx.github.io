@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zyxzyxzyx.github.io/"/>
-  <updated>2019-08-26T08:20:14.534Z</updated>
+  <updated>2019-08-27T06:45:56.950Z</updated>
   <id>https://zyxzyxzyx.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://zyxzyxzyx.github.io/2019/08/27/Learn%20regex%20the%20easy%20way/"/>
+    <id>https://zyxzyxzyx.github.io/2019/08/27/Learn regex the easy way/</id>
+    <published>2019-08-27T06:45:56.775Z</published>
+    <updated>2019-08-27T06:45:56.950Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p align=&quot;center&quot;&gt;
+    &lt;br&gt;
+    &lt;a href=&quot;https://github.com/ziishaned/learn-regex&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+        &lt;img
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>如何利用Github搭建个人博客</title>
