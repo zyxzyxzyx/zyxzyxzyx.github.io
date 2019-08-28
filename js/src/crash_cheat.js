@@ -12,7 +12,7 @@
          document.title = '(ฅ>ω<*ฅ) 噫又好了~' + OriginTitle;
          titleTime = setTimeout(function () {
              document.title = OriginTitle;
-             $('[rel="icon"]').attr('href', "/images/favicon-32x32-next.png");
+             $('[rel="icon"]').attr('href', "/images/avatar.jpg");
          }, 2000);
      }
  });
