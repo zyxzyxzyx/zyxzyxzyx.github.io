@@ -179,10 +179,15 @@ id: '<%= page.date %>'
 9. [Hexo + Next 的优化](https://simguo.github.io/2017/08/01/Hexo-Next-%E7%9A%84%E4%BC%98%E5%8C%96/)
 10. [Hexo Next 主题中添加本地搜索功能](https://blog.csdn.net/lijing742180/article/details/87970909) 
 11. [为 Hexo 博客创建本地搜索引擎](https://liam.page/2017/09/21/local-search-engine-in-Hexo-site/)
+12. [hexo博文压缩](https://blog.csdn.net/ganzhilin520/article/details/79052512)
+13. [Next主题美化(持续更新)](https://siriusq.top/Next%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96)
+14. [Hexo NexT主题中添加网页标题崩溃欺骗搞怪特效](https://asdfv1929.github.io/2018/01/25/crash-cheat/)
+15. [动态title-网站标题崩溃欺骗](https://blog.csdn.net/qq_39520417/article/details/83752651)
 
 # 五、GitHub + Hexo搭建自己博客：备份博客源文件
 1. [GitHub + Hexo搭建自己博客(三) 多设备管理](https://sandop.github.io/2019/02/21/GitHub-Hexo%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E5%8D%9A%E5%AE%A2-%E4%B8%89-%E5%A4%9A%E8%AE%BE%E5%A4%87%E7%AE%A1%E7%90%86/)
 2. [超详细Hexo+Github博客搭建小白教程](https://godweiyang.com/2018/04/13/hexo-blog/)
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190827201322537.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5eF9seQ==,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190817175408575.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5eF9seQ==,size_16,color_FFFFFF,t_70)
 # 六、Hexo + Next 主题博客添加分享功能
