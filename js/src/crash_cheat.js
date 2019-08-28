@@ -3,15 +3,16 @@
  var titleTime;
  document.addEventListener('visibilitychange', function () {
      if (document.hidden) {
-         $('[rel="icon"]').attr('href', "/img/TEP.ico");
+         $('[rel="icon"]').attr('href', "https://i.loli.net/2018/08/24/5b7fcb00ed9bf.png");
          document.title = '╭(°A°`)╮ 页面崩溃啦 ~';
          clearTimeout(titleTime);
      }
      else {
-         $('[rel="icon"]').attr('href', "/favicon.ico");
+         $('[rel="icon"]').attr('href', "https://i.loli.net/2018/09/25/5baa4f21661e7.png");
          document.title = '(ฅ>ω<*ฅ) 噫又好了~' + OriginTitle;
          titleTime = setTimeout(function () {
              document.title = OriginTitle;
+             $('[rel="icon"]').attr('href', "/images/favicon-32x32-next.png");
          }, 2000);
      }
  });
